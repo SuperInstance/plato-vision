@@ -40,6 +40,7 @@ for change in changes {
 ```
 
 ## How It Fits
+- [OpenConstruct Documentation](https://github.com/SuperInstance/openconstruct-docs) — ecosystem-wide docs and guides
 
 Produces the "vision shadows" that flow through the system. [plato-transport](https://github.com/SuperInstance/plato-transport) delivers them to [plato-correlator](https://github.com/SuperInstance/plato-correlator), which fuses them with [plato-sonar-text](https://github.com/SuperInstance/plato-sonar-text) shadows. [plato-shell](https://github.com/SuperInstance/plato-shell) presents vision scenes as room descriptions.
 
